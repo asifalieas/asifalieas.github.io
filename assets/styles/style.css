@@ -318,7 +318,7 @@ label {
 }
 
 /* css for mobile size, that is size lesser than 786px */
-@media(max-width: 786px) {
+@media(max-width: 1100px) {
   .logo {
     position: fixed;
     top: 0;
