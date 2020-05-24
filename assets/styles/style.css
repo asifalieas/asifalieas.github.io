@@ -210,15 +210,6 @@ nav ul li a {
   display: none;
 }
 
-@media screen and (max-width: 1017px) {
-  #content-desktop {
-    display: none;
-  }
-
-  #content-mobile {
-    display: block;
-  }
-}
 
 /* css for news section */
 #news {
@@ -360,6 +351,14 @@ label {
 
   .dev-info {
     margin-left: 9rem;
+  }
+  
+  #content-desktop {
+    display: none;
+  }
+
+  #content-mobile {
+    display: block;
   }
 
   .contact-form {
